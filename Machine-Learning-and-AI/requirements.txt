@@ -1,0 +1,5 @@
+absl-py==2.1.0
+matplotlib==3.10.0
+numpy==2.0.2
+scikit-learn==1.6.0
+tensorflow==2.18.0
